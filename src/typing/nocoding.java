@@ -1,5 +1,6 @@
 package typing;
 import java.io.*;
+import java.net;
 
 class nocoding{
 	public static void main(String args[])
